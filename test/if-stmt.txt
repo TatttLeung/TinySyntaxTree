@@ -1,0 +1,3 @@
+if(1)[write fact];
+if(1)[write fact]
+else[x:=1]

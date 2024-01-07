@@ -1,0 +1,18 @@
+{ Sample program
+  in TINY language -
+  computes factorial
+}
+{test}
+read x; { input an integer }
+
+if (x>0) { don't compute if x <= 0 }
+  [fact := 1;
+  repeat
+    fact := fact * x;
+    x := x - 1
+  until x = 0;
+  write fact  { output factorial of x }
+];
+  x+=(1+2)*3%4^(fact);
+  y::=(a&b&c)#&d?;
+  z:= not (123 and 456 ) and 111 or 789 and 123 * 4 +5 

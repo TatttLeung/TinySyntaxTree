@@ -1,0 +1,12 @@
+for i:=0 to x+5
+  do
+    for j:=0 downto x-5
+       do
+            y+=1
+       enddo;
+       haha:=ji{嘿嘿}
+       enddo;
+       repeat
+           true:=false;
+           false+=heiheihei
+       until x=0

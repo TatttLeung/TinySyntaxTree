@@ -1,0 +1,22 @@
+{ Sample program
+  in TINY language -
+  computes factorial
+}
+read x; { input an integer }
+
+if  (x>0) { don't compute if x <= 0 }
+  [fact := 1;
+  repeat
+    fact := fact * x;
+    x := x - 1
+  until x = 0;
+  write fact]  { output factorial of x }
+else 
+  [y::=a#&b?|c&(d)];{test}
+for i := 0 to x*5
+  do
+for j :=3 downto 0
+do
+     x+=1{这里是两层的for循环}
+enddo
+enddo

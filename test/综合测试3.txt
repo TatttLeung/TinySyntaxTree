@@ -1,0 +1,22 @@
+{预计这是一个很难的测试样例，你准备好了吗}
+read xxx;{}
+y::=((a&b)#&c)?|d&e#;
+z+=not(123)and456 or not(not789);
+x:=(5+(((1*2%3^4)))*6^1%7);
+if (x<y)[
+	if(1)
+		[write fact]
+	else
+		[for i:=0 to x+5
+			do
+				for j:=0 downto x-5
+					do
+						y+=1
+					enddo;
+				haha:=ji{嘿嘿}
+			enddo;
+		repeat
+			true:=false;
+			false+=heiheihei
+		until x=0]
+]

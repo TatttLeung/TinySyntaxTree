@@ -1,0 +1,2 @@
+x := not(123)and456 or not(not789);
+y := a and (b or c) or (d and e) and not not not f or g
